@@ -1,6 +1,6 @@
-module merkle-patrica-trie
+module github.com/yzy-github/merkle-patricia-trie
 
-go 1.13
+go 1.16
 
 require (
 	github.com/ethereum/go-ethereum v1.9.15
